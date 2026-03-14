@@ -103,7 +103,7 @@ color:#444;
 
 <h1>Loukman Youssouf</h1>
 
-<img src="photo.jpg" alt="Photo de Loukman">
+<img src="C:\Users\miada\Pictures\mes photos\photo.jpg" alt="Photo de Loukman">
 
 <p class="project">
 Portfolio Data Scientist – Intelligence Artificielle, Data Science et Machine Learning
@@ -111,7 +111,8 @@ Portfolio Data Scientist – Intelligence Artificielle, Data Science et Machine 
 
 <div class="links">
 
-<a href="https://github.com/tonusername">Voir le projet sur GitHub</a>
+<a href="https://github.com/loukman.gitignore
+">Voir le projet sur GitHub</a>
 
 <a href="#">Télécharger le fichier ZIP</a>
 
