@@ -1,2 +1,2 @@
-# loukman.gitignore
-Portfolio data scientiste 
+# Loukman Youssouf Miad.gitignore
+Loukman-Data-Science-Portfolio
