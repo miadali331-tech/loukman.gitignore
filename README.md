@@ -2,14 +2,14 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Loukman Youssouf – Portfolio</title>
+<title>Loukman Youssouf | Portfolio Data Scientist</title>
 
 <style>
 
 body{
 font-family: Arial, Helvetica, sans-serif;
 margin:0;
-background:#f4f4f4;
+background:#f4f6f9;
 }
 
 .container{
@@ -17,38 +17,52 @@ display:flex;
 max-width:1200px;
 margin:40px auto;
 background:white;
-box-shadow:0 0 10px rgba(0,0,0,0.1);
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+border-radius:6px;
+overflow:hidden;
 }
 
 .left{
 width:35%;
 padding:30px;
-border-right:1px solid #ddd;
+background:#fafafa;
+border-right:1px solid #eee;
 }
 
 .left h1{
 color:#2c7be5;
 font-size:28px;
-margin-bottom:20px;
+margin-bottom:15px;
 }
 
 .left img{
 width:100%;
-border-radius:5px;
+border-radius:6px;
 margin-bottom:15px;
 }
 
 .project{
 color:#666;
 margin-bottom:20px;
+font-size:15px;
 }
 
 .links a{
 display:block;
-margin:8px 0;
+margin:10px 0;
 color:#2c7be5;
 text-decoration:none;
 font-weight:bold;
+}
+
+.links a:hover{
+text-decoration:underline;
+}
+
+.footer{
+margin-top:30px;
+color:#777;
+font-size:14px;
 }
 
 .right{
@@ -59,20 +73,24 @@ padding:40px;
 .right h1{
 font-size:32px;
 margin-bottom:10px;
+color:#333;
 }
 
 .highlight{
-background:#e6f0ff;
-padding:12px;
-border-radius:4px;
+background:#eef4ff;
+padding:15px;
+border-radius:5px;
+line-height:1.6;
 }
 
 h2{
 margin-top:30px;
+color:#2c7be5;
 }
 
 ul{
 line-height:1.8;
+color:#444;
 }
 
 </style>
@@ -84,41 +102,42 @@ line-height:1.8;
 
 <div class="left">
 
-<h1>Loukman YOUSSOUF</h1>
+<h1>Loukman Youssouf</h1>
 
-<img src="photo.jpg">
+<img src="photo.jpg" alt="Photo de Loukman">
 
 <p class="project">
-Portfolio Data Scientist – IA, Data Science, Machine Learning
+Portfolio Data Scientist – Intelligence Artificielle, Data Science et Machine Learning
 </p>
 
 <div class="links">
 
-<a href="https://github.com/tonusername">View the Project on GitHub</a>
+<a href="https://github.com/tonusername">Voir le projet sur GitHub</a>
 
-<a href="#">Download ZIP File</a>
+<a href="#">Télécharger le fichier ZIP</a>
 
-<a href="#">Download TAR Ball</a>
+<a href="#">Télécharger le fichier TAR</a>
 
 </div>
 
-<p style="margin-top:20px;color:#777;">
-This project is maintained by Loukman Youssouf
+<p class="footer">
+Ce portfolio est maintenu par Loukman Youssouf
 </p>
 
 </div>
 
 <div class="right">
 
-<h1>Loukman Youssouf – Portfolio</h1>
+<h1>Portfolio Data Scientist</h1>
 
 <p class="highlight">
 
 Bienvenue sur mon portfolio.
 
-Je suis **Loukman Youssouf**, étudiant en **Master Intelligence Artificielle et Modélisation des Données** à l’Université de Djibouti.
+Je suis Loukman Youssouf, étudiant en Master Intelligence Artificielle et Modélisation des Données à l’Université de Djibouti.
 
-Je suis passionné par la **Data Science, le Machine Learning et l’Intelligence Artificielle** et je développe des projets d’analyse de données et de modélisation prédictive.
+Je m'intéresse particulièrement à la Data Science, au Machine Learning et à l’Intelligence Artificielle.  
+Je développe des projets d’analyse de données, de modélisation prédictive et d’apprentissage automatique.
 
 </p>
 
@@ -126,7 +145,7 @@ Je suis passionné par la **Data Science, le Machine Learning et l’Intelligenc
 
 <ul>
 
-<li>Master Intelligence Artificielle & Modélisation des Données</li>
+<li>Master Intelligence Artificielle et Modélisation des Données</li>
 
 <li>Licence en Informatique</li>
 
@@ -134,11 +153,11 @@ Je suis passionné par la **Data Science, le Machine Learning et l’Intelligenc
 
 <li>Compétences en Data Science et Machine Learning</li>
 
-<li>Expérience avec Python, Pandas, NumPy et Scikit-learn</li>
+<li>Programmation avec Python, Pandas, NumPy et Scikit-learn</li>
 
 </ul>
 
-<h2>Ce que je fais</h2>
+<h2>Compétences</h2>
 
 <ul>
 
@@ -154,15 +173,15 @@ Je suis passionné par la **Data Science, le Machine Learning et l’Intelligenc
 
 </ul>
 
-<h2>Mes projets</h2>
+<h2>Projets</h2>
 
 <ul>
 
-<li>📊 Analyse de données de ventes</li>
+<li>Analyse exploratoire de données</li>
 
-<li>⏳ Prévision de séries temporelles</li>
+<li>Modèles de Machine Learning</li>
 
-<li>🤖 Modèle de Machine Learning</li>
+<li>Analyse et visualisation de données</li>
 
 </ul>
 
