@@ -103,7 +103,7 @@ color:#444;
 
 <h1>Loukman Youssouf</h1>
 
-<img src="C:\Users\miada\Pictures\mes photos\photo.JPEG" alt="Photo de Loukman">
+<img src="photo.JPEG" alt="Photo de Loukman">
 
 <p class="project">
 Portfolio Data Scientist – Intelligence Artificielle, Data Science et Machine Learning
