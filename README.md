@@ -103,7 +103,7 @@ color:#444;
 
 <h1>Loukman Youssouf</h1>
 
-<img src="photo.JPEG" alt="Photo de Loukman">
+<img src="photo.jpeg" alt="Photo de Loukman" width="220" style="border-radius:10px;">
 
 <p class="project">
 Portfolio Data Scientist – Intelligence Artificielle, Data Science et Machine Learning
